@@ -1,0 +1,30 @@
+{
+    "zenMode.hideLineNumbers": false,
+    "editor.renderWhitespace": "boundary",
+    "editor.lineNumbers": "relative",
+    "window.zoomLevel": 1,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Dark Github",
+    "zenMode.restore": true,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.panel.defaultLocation": "right",
+    "workbench.sideBar.location": "right",
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "entity.name.type.ts",
+                "settings": {
+                    "foreground": "#66b5f6"
+                }
+            },
+            {
+                "scope": "entity.name.type.alias.ts",
+                "settings": {
+                    "foreground": "#66b5f6"
+                }
+            }
+        ]
+    }
+}
