@@ -3,6 +3,8 @@
     "editor.renderWhitespace": "boundary",
     "editor.lineNumbers": "relative",
     "window.zoomLevel": 1,
+    "window.restoreFullscreen": true,
+    "window.newWindowDimensions": "fullscreen",
     "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,
     "workbench.colorTheme": "Dark Github",
@@ -26,5 +28,17 @@
                 }
             }
         ]
-    }
+    },
+    "workbench.colorCustomizations": {
+        "sideBar.background": "#1e1e1e",
+        "editorGroup.border": "#1e1e1e"
+    },
+    "editor.overviewRulerBorder": false,
+    "editor.rulers": [
+    
+    ],
+    "workbench.editor.showTabs": false,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.statusBar.visible": false,
+    "workbench.activityBar.visible": false,
 }
