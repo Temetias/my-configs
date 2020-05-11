@@ -1,0 +1,42 @@
+{
+	"Vue Class Component": {
+		"prefix": "@Component",
+		"scope": "javascript,typescript",
+		"body": [
+			"@Component<${1:ClassName}>({",
+			"    template: /* html */ `",
+			"        $0",
+			"    `,",
+			"})",
+			"/**",
+			" * @internal",
+			" */",
+			"export class ${1:ClassName} extends Vue {",
+			"    ",
+			"}"
+		],
+		"description": "Vue Class Component"
+	},
+	"Ajax": {
+		"prefix": "@ajax",
+		"scope": "javascript,typescript",
+		"body": [
+			"$.ajax({",
+			"    url: $1,",
+			"    success: $2,",
+			"    error: $3,",
+			"});"
+		],
+		"description": "jQuery ajax"
+	},
+	"New promise": {
+		"prefix": "@promise",
+		"scope": "javascript,typescript",
+		"body": [
+			"new Promise<$1>((resolve, reject) => {",
+			"    $2",
+			"});"
+		],
+		"description": "A new promise"
+	}
+}
