@@ -44,6 +44,12 @@
                 "settings": {
                     "foreground": "#FFFFFF"
                 }
+            },
+            {
+                "scope": "variable.language.this.ts",
+                "settings": {
+                    "fontStyle": "bold underline"
+                }
             }
         ]
     },
