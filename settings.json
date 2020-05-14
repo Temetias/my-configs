@@ -50,6 +50,12 @@
                 "settings": {
                     "fontStyle": "bold underline"
                 }
+            },
+            {
+                "scope": "variable.other.php",
+                "settings": {
+                    "foreground": "#FFFFFF"
+                }
             }
         ]
     },
@@ -61,12 +67,17 @@
     "editor.insertSpaces": false,
     "editor.overviewRulerBorder": false,
     "editor.rulers": [
+
     
     ],
-    "workbench.editor.showTabs": false,
     "workbench.iconTheme": "vscode-icons",
     "workbench.statusBar.visible": false,
     "workbench.activityBar.visible": false,
     "vsicons.dontShowNewVersionMessage": true,
-    "editor.cursorSurroundingLines": 100
+    "editor.cursorSurroundingLines": 100,
+    "workbench.editor.centeredLayoutAutoResize": false,
+    "workbench.editor.showTabs": false,
+    "workbench.editor.tabSizing": "shrink",
+    "terminal.external.windowsExec": "C:\\Program Files\\Git\\git-bash.exe",
+    "editor.cursorStyle": "block"
 }
