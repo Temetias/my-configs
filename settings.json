@@ -2,7 +2,7 @@
     "zenMode.hideLineNumbers": false,
     "editor.renderWhitespace": "boundary",
     "editor.lineNumbers": "relative",
-    "window.zoomLevel": 1,
+    "window.zoomLevel": 0,
     "window.restoreFullscreen": true,
     "window.newWindowDimensions": "fullscreen",
     "editor.fontFamily": "Fira Code",
@@ -55,6 +55,12 @@
                 "scope": "variable.other.php",
                 "settings": {
                     "foreground": "#FFFFFF"
+                }
+            },
+            {
+                "scope": "variable.language.super.ts",
+                "settings": {
+                    "foreground": "#EB7E81"
                 }
             }
         ]
