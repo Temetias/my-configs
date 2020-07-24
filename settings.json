@@ -7,7 +7,6 @@
     "window.newWindowDimensions": "fullscreen",
     "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,
-    "workbench.colorTheme": "Dark Github",
     "zenMode.restore": true,
     "editor.minimap.enabled": false,
     "breadcrumbs.enabled": false,
@@ -85,5 +84,7 @@
     "workbench.editor.showTabs": false,
     "workbench.editor.tabSizing": "shrink",
     "terminal.external.windowsExec": "C:\\Program Files\\Git\\git-bash.exe",
-    "editor.cursorStyle": "block"
+    "editor.cursorStyle": "block",
+    "workbench.colorTheme": "Dark Github",
+    "extensions.ignoreRecommendations": false
 }
