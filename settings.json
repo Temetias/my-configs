@@ -33,5 +33,5 @@
     "editor.cursorStyle": "block",
     "workbench.colorTheme": "Hyrule (rainglow)",
     "extensions.ignoreRecommendations": false,
-    "workbench.startupEditor": "newUntitledFile"
+    "workbench.startupEditor": "newUntitledFile",
 }
