@@ -1,88 +1,37 @@
 {
-  "zenMode.hideLineNumbers": false,
-  "editor.renderWhitespace": "boundary",
-  "editor.lineNumbers": "relative",
-  "window.zoomLevel": 0,
-  "window.restoreFullscreen": true,
-  "window.newWindowDimensions": "fullscreen",
-  "editor.fontFamily": "Fira Code",
-  "editor.fontLigatures": true,
-  "zenMode.restore": true,
-  "editor.minimap.enabled": false,
-  "breadcrumbs.enabled": false,
-  "workbench.panel.defaultLocation": "right",
-  "workbench.sideBar.location": "right",
-  "editor.tokenColorCustomizations": {
-    "textMateRules": [
-      {
-        "scope": "entity.name.type.ts",
-        "settings": {
-          "foreground": "#66b5f6"
-        }
-      },
-      {
-        "scope": "entity.name.type.alias.ts",
-        "settings": {
-          "foreground": "#66b5f6"
-        }
-      },
-      {
-        "scope": "punctuation.definition.template-expression.begin.ts",
-        "settings": {
-          "foreground": "#EB7E81"
-        }
-      },
-      {
-        "scope": "punctuation.definition.template-expression.end.ts",
-        "settings": {
-          "foreground": "#EB7E81"
-        }
-      },
-      {
-        "scope": "meta.embedded.line.ts",
-        "settings": {
-          "foreground": "#FFFFFF"
-        }
-      },
-      {
-        "scope": "variable.language.this.ts",
-        "settings": {
-          "fontStyle": "bold underline"
-        }
-      },
-      {
-        "scope": "variable.other.php",
-        "settings": {
-          "foreground": "#FFFFFF"
-        }
-      },
-      {
-        "scope": "variable.language.super.ts",
-        "settings": {
-          "foreground": "#EB7E81"
-        }
-      }
-    ]
-  },
-  "workbench.colorCustomizations": {
-    "sideBar.background": "#1e1e1e",
-    "editorGroup.border": "#1e1e1e"
-  },
-  "editor.tabSize": 4,
-  "editor.insertSpaces": false,
-  "editor.overviewRulerBorder": false,
-  "editor.rulers": [],
-  "workbench.iconTheme": "vscode-icons",
-  "workbench.statusBar.visible": false,
-  "workbench.activityBar.visible": false,
-  "vsicons.dontShowNewVersionMessage": true,
-  "editor.cursorSurroundingLines": 100,
-  "editor.formatOnSave": true,
-  "workbench.editor.centeredLayoutAutoResize": false,
-  "workbench.editor.showTabs": false,
-  "workbench.editor.tabSizing": "shrink",
-  "terminal.external.windowsExec": "C:\\Program Files\\Git\\git-bash.exe",
-  "editor.cursorStyle": "block",
-  "workbench.colorTheme": "Dark Github",
-  "extensions.ignoreRecommendations": false
+    "zenMode.hideLineNumbers": false,
+    "editor.renderWhitespace": "boundary",
+    "editor.lineNumbers": "relative",
+    "window.zoomLevel": 1,
+    "window.restoreFullscreen": true,
+    "window.newWindowDimensions": "fullscreen",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "zenMode.restore": true,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.panel.defaultLocation": "right",
+    "workbench.sideBar.location": "right",
+    "editor.tokenColorCustomizations": {
+    },
+    "workbench.colorCustomizations": {
+    },
+    "editor.tabSize": 4,
+    "editor.insertSpaces": false,
+    "editor.overviewRulerBorder": false,
+    "editor.rulers": [
+    ],
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.statusBar.visible": false,
+    "workbench.activityBar.visible": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "editor.cursorSurroundingLines": 100,
+    "workbench.editor.centeredLayoutAutoResize": false,
+    "workbench.editor.showTabs": false,
+    "workbench.editor.tabSizing": "shrink",
+    "terminal.external.windowsExec": "C:\\Program Files\\Git\\git-bash.exe",
+    "editor.cursorStyle": "block",
+    "workbench.colorTheme": "Hub Contrast (rainglow)",
+    "extensions.ignoreRecommendations": false,
+    "workbench.startupEditor": "newUntitledFile",
 }
