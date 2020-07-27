@@ -31,7 +31,7 @@
     "workbench.editor.tabSizing": "shrink",
     "terminal.external.windowsExec": "C:\\Program Files\\Git\\git-bash.exe",
     "editor.cursorStyle": "block",
-    "workbench.colorTheme": "Hyrule (rainglow)",
+    "workbench.colorTheme": "Hub Contrast (rainglow)",
     "extensions.ignoreRecommendations": false,
     "workbench.startupEditor": "newUntitledFile",
 }
